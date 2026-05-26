@@ -56,16 +56,6 @@
 
 ---
 
-# 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pamella-git&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # ✨ Objetivo
 
 Desenvolver soluções acessíveis utilizando tecnologia e Inteligência Artificial para gerar impacto positivo e inclusão digital.
