@@ -1,16 +1,95 @@
-## Hi there 👋
+# 👩🏻‍💻 Pâmella A. Hermes
 
-<!--
-**Pamella-git/Pamella-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="LINK_BANNER"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 💜 Sobre Mim
+
+✨ Estudante de Engenharia de Software  
+💳 Operações em Fintech  
+🖥️ Futura Desenvolvedora Front-End  
+🧠 Interessada em tecnologia, UX/UI, IA, neurociência e aprendizado contínuo.
+
+---
+
+# 🚀 Tecnologias & Ferramentas
+
+### 🎨 Design & UI/UX
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+</p>
+
+### 💻 Front-End
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  
+  <img src="https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  
+  <img src="https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+### ⚙️ Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032"/>
+  
+  <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/VSCode-1E1E2E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+</p>
+
+---
+
+# 📚 Atualmente Estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- UX/UI
+- Inteligência Artificial
+- Acessibilidade Digital
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pamella-git&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamella-git&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pamella-git&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ✨ Objetivo
+
+Desenvolver soluções acessíveis utilizando tecnologia e Inteligência Artificial para gerar impacto positivo e inclusão digital.
+
+---
+
+# 💜 Frase
+
+<div align="center">
+
+"Aprender continuamente também é uma forma de evoluir o mundo."
+
+</div>
