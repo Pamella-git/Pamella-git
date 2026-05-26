@@ -1,7 +1,3 @@
-# 👩🏻‍💻 Pâmella A. Hermes
-
-<div align="center">
-
 </div>
 
 ---
