@@ -1,7 +1,3 @@
-</div>
-
----
-
 ## 💜 Sobre Mim
 
 ✨ Estudante de Engenharia de Software  
