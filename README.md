@@ -3,7 +3,7 @@
 ✨ Estudante de Engenharia de Software  
 💳 Operações em Fintech  
 🖥️ Futura Desenvolvedora Front-End  
-🧠 Interessada em tecnologia, UX/UI, IA, neurociência e aprendizado contínuo.
+⚡ Interessada em tecnologia, UX/UI, IA, neurociência e aprendizado contínuo.
 
 ---
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### ⚙️ Ferramentas
+### 💻 Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032"/>
