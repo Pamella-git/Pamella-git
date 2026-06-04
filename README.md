@@ -14,23 +14,18 @@
 
 ### 🎨 Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032"/>
-  
-  <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/VSCode-1E1E2E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-
-  <img src="https://img.shields.io/badge/Claude-1E1E2E?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Excel-1E1E2E?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
-</p>
+- FIGMA
+- VS CODE
+- GITHUB
+- OFFICE
+- IA
 
 ---
 
 # ✨ Objetivo
 
-Desenvolver soluções acessíveis utilizando tecnologia e Inteligência Artificial para gerar impacto positivo e inclusão digital.
+Desenvolver soluções acessíveis para gerar impacto positivo e inclusão digital. 
+Para isso venho estudando  programação, design de interfaces e desenvolvimento de soluções inclusivas utilizando IA.
 
 ---
 
