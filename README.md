@@ -54,10 +54,18 @@ Desenvolver soluções acessíveis utilizando tecnologia e Inteligência Artific
 
 ---
 
-# 💜 Frase
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-"Aprender continuamente também é uma forma de evoluir o mundo."
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamella-git&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamella-git&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamella-git&theme=github_dark"/>
 
 </div>
