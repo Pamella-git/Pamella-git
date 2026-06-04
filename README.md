@@ -1,12 +1,3 @@
-## 💜 Sobre Mim
-
-👩‍💻 Estudante de Engenharia de Software  
-☁️ Operações em Fintech  
-💞 Futura Desenvolvedora Front-End  
-⚡ Interessada em tecnologia, UX/UI, IA, neurociência e aprendizado contínuo.
-
----
-
 # 🚀 Tecnologias & Ferramentas
 
 ### 💻 Front-End - Design & UI/UX
@@ -21,7 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### 🛠️ Ferramentas
+### 🎨 Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -34,17 +25,6 @@
 
   <img src="https://img.shields.io/badge/Excel-1E1E2E?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
 </p>
-
----
-
-# 📚 Atualmente Estudando
-
-- HTML5
-- CSS3
-- JavaScript
-- UX/UI
-- Inteligência Artificial
-- Acessibilidade Digital
 
 ---
 
